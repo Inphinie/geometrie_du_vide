@@ -40,4 +40,4 @@ La synthèse suggère une transition de paradigme : nous passons de la chimie de
 Basé sur une analyse exhaustive de plus de 40 publications récentes couvrant l'électrodynamique quantique (QED), la matière condensée et la nanophotonique.
 
 ---
-*Généré par [Ton Nom/Pseudo ou Lichen Collective]*
+*Généré par Bryan Ouellette et Lichen Collective*
